@@ -1,0 +1,8 @@
+path	type	strategy	rel_file_path	timestamp	dirty	build	touch_build	node_x	node_y	node_color
+/externalizations	table	tsv	_core/externalizations.tsv	2026-03-22 09:35:57 UTC				-600	-325	0.9000,0.3000,0.4000
+/project1/visuals	base	tox	_core/project1/visuals.tox	2026-03-22 09:40:43 UTC	False	3	2025.32460	0	125	0.3250,0.8000,0.3000
+/project1/config	base	tox	_core/project1/config.tox	2026-03-22 09:36:09 UTC	False	1	2025.32460	0	-25	0.3250,0.8000,0.3000
+/project1/networking	base	tox	_core/project1/networking.tox	2026-03-22 09:39:43 UTC	False	3	2025.32460	0	-175	0.3250,0.8000,0.3000
+/project1/networking/myNetworkingScript	text	py	_core/project1/networking/myNetworkingScript.py	2026-03-22 09:37:12 UTC				0	0	0.9000,0.3000,0.4000
+/project1/networking/base1	base	tox	_core/project1/networking/base1.tox	2026-03-22 09:40:21 UTC	False	3	2025.32460	0	150	0.3250,0.8000,0.3000
+/project1/networking/base1/text1	text	txt	_core/project1/networking/base1/text1.txt	2026-03-22 09:40:13 UTC				0	0	0.9000,0.3000,0.4000
